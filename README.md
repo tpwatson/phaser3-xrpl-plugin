@@ -1,2 +1,3 @@
-# phaser3-xrpl-plugin
-Open Source Phaser 3 Plugin to bring the XRP Ledger into your projects.
+# Integrating the XRP Ledger into Phaser 3 Games
+
+## This is just a prototype for demonstrating the XRPL testnet within the Phaser3 game scope.
